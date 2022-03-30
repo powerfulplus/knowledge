@@ -39,6 +39,15 @@ https://coinforecast.org/en/forecast/cryptocurrency/bnb
 
 https://longforecast.com/binance-coin
 
-candlegenie.io btc predction
 https://www.binance.com/en/trade/BTC_USDT
 
+prediction bot
+https://github.com/modagavr/pancakeswap-prediction-winner
+https://github.com/AladeenCR/PancakeSwap-Prediction-Bot-v3/
+
+round collect point
+btcusdt
+02:45 - 02:50
+
+bnbusdt
+00:58 - 01:03
