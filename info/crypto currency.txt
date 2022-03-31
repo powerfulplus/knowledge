@@ -45,9 +45,9 @@ prediction bot
 https://github.com/modagavr/pancakeswap-prediction-winner
 https://github.com/AladeenCR/PancakeSwap-Prediction-Bot-v3/
 
+candlegenie.io
 round collect point
-btcusdt
-02:45 - 02:50
-
-bnbusdt
-00:58 - 01:03
+round time 05:06
+6 second may be processing time
+btcusdt 01:51 - 14
+bnbusdt 04:42 - 15
