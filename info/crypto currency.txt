@@ -44,6 +44,7 @@ https://www.binance.com/en/trade/BTC_USDT
 prediction bot
 https://github.com/modagavr/pancakeswap-prediction-winner
 https://github.com/AladeenCR/PancakeSwap-Prediction-Bot-v3/
+https://github.com/drignads/PCS-PREDICTION-MULTI_STRATEGY-BOT
 
 candlegenie.io
 round collect point
