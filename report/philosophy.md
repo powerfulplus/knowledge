@@ -25,3 +25,21 @@
 ## Ability
 
 > mysterious in history
+
+# When I get back down
+
+- think about the past of my life
+- my proud and brilliant activities.
+
+# When I feel Stress
+
+- deep breath
+- change feeling
+- conversation
+- laughing
+- humor / sarcasm
+- increase morale by cartoon
+- do what I love
+- sport / music
+- never feel
+- avoid
