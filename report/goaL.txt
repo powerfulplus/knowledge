@@ -1,2 +1,3 @@
-immortality
-independent
+#immortality
+#independent
+ - x cartoon
