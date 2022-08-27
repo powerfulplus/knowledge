@@ -1,6 +1,0 @@
-skill
- - talent(speed reading, imagination, guessing, mental arithmetic, memorization)
- - english and an other
- - brain bend(problem solving)
- - biology
- - IT
