@@ -43,3 +43,8 @@
 - sport / music
 - never feel
 - avoid
+
+# Goal
+- Immortality
+- Independent
+ - x cartoon
