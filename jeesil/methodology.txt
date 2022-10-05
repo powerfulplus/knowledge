@@ -9,7 +9,7 @@ Outside state
 	physical state
 
 personal life
-- should do work well
+- should work well
 - have good abilities
 - fast
 - handsome
@@ -36,7 +36,11 @@ Strategic purpose
 - speed reading
 - non-stress
 - pre attack
-- 
+
+For Dream
+AI
+Money
+Item
 
 sphere inquiry
 - confidence

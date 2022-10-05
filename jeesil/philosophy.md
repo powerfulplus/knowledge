@@ -46,5 +46,10 @@
 
 # Goal
 - Immortality
+ No Sleep
+ Adopt new Feeling
+
 - Independent
- - x cartoon
+ 36405d cartoon
+ Philosophy, mathatics, biology, physics.
+ AI for life and pleasure.
