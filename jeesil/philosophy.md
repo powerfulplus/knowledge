@@ -50,6 +50,6 @@
  Adopt new Feeling
 
 - Independent
- 36405d cartoon
+ 36405d cartoon, video game
  Philosophy, mathatics, biology, physics.
  AI for life and pleasure.
